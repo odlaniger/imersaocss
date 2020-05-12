@@ -1,2 +1,2 @@
-# imersaocss
-Curso Hipsters site utilizando html e css
+# imersaoCSS
+Repositório para planejamento das aulas
