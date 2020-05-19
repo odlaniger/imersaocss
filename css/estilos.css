@@ -1,3 +1,4 @@
+/* Soft Reset do CSS */
 * {
   margin: 0;
   padding: 0;
@@ -5,7 +6,7 @@
 }
 
 body {
-  background-image: url('../img/fundo.jpg');
+  background-image: url("../img/fundo.jpg");
   background-size: auto 100vh;
   height: 100vh;
 }
